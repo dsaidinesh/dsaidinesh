@@ -1,9 +1,8 @@
-### Hi there 👋
-👋 Hi, I'm Dinesh!
-🎓 Computer Science student exploring the realms of IoT.
-💻 Passionate about coding and building innovative solutions.
+👋 Hi, I'm Dinesh!  
+🎓 Computer Science student exploring the realms of IoT.  
+💻 Passionate about coding and building innovative solutions.  
+📧 Reach me at dsaidinesh2003@gmail.com.  
 🚀 Check out my projects below! 🌟
-📧 Reach me at dsaidinesh2003@gmail.com
 
 
 <!--
