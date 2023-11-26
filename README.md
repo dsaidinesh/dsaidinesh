@@ -1,5 +1,5 @@
 👋 Hi, I'm Dinesh!  
-🚀 Software intern passionate about creating innovative solutions.  
+🌐 Computer Science enthusiast on a coding journey.  
 💻 Passionate about coding and building innovative solutions.  
 📧 Reach me at dsaidinesh2003@gmail.com.  
 🚀 Check out my projects below! 🌟
