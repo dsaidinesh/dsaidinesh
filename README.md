@@ -1,8 +1,11 @@
-👋 Hi, I'm Dinesh!  
-🌐 Computer Science enthusiast on a coding journey.  
-💻 Passionate about coding and building innovative solutions.  
-📧 Reach me at dsaidinesh2003@gmail.com.  
+👋 Hi, I'm Dinesh!
+
+- 🌐 Computer Science enthusiast on a coding journey.
+- 💻 Passionate about coding and building innovative solutions.
+- 📧 Reach me at dsaidinesh2003@gmail.com.
+
 🚀 Check out my projects below! 🌟
+
 
 
 <!--
