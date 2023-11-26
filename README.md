@@ -1,5 +1,5 @@
 👋 Hi, I'm Dinesh!  
-🎓 Computer Science student exploring the realms of IoT.  
+🚀 Software intern passionate about creating innovative solutions.
 💻 Passionate about coding and building innovative solutions.  
 📧 Reach me at dsaidinesh2003@gmail.com.  
 🚀 Check out my projects below! 🌟
