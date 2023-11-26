@@ -1,4 +1,10 @@
 ### Hi there 👋
+👋 Hi, I'm Dinesh!
+🎓 Computer Science student exploring the realms of IoT.
+💻 Passionate about coding and building innovative solutions.
+🚀 Check out my projects below! 🌟
+📧 Reach me at dsaidinesh2003@gmail.com
+
 
 <!--
 **dsaidinesh/dsaidinesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
